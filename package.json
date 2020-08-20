@@ -1,0 +1,24 @@
+{
+  "name": "html-kit",
+  "version": "1.0.0",
+  "description": "Helps with building basic HTML websites with helpers such as includes and custom functions ran at build time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iambj/html-kit.git"
+  },
+  "keywords": [
+    "static-site-generator",
+    "html",
+    "html-includes"
+  ],
+  "author": "Brandon Johnson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iambj/html-kit/issues"
+  },
+  "homepage": "https://github.com/iambj/html-kit#readme"
+}
